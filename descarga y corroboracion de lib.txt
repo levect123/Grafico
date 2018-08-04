@@ -9,3 +9,8 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> import numpy as np
 
 
+links de interes:
+
+https://python-para-impacientes.blogspot.com/2014/08/graficos-en-ipython.html
+
+
